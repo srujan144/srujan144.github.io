@@ -12,7 +12,7 @@ Let's look at the git commands you use throughout this process
 After making your changes, you need to stage them for committing.
 
 `git add -A` - Stages your code 
-git commit -m "describe the changes in this commit" -  commits your changes, it just means that your changes are finalized and ready to push to server. So be careful before committing.
+`git commit -m "describe the changes in this commit"`-  commits your changes, it just means that your changes are finalized and ready to push to server. So be careful before committing.
 `git push origin mybranch01` - Push your branch to the online repository and your team can view your code and now create a PR and request your Team Lead to merge the changes.
 
 
